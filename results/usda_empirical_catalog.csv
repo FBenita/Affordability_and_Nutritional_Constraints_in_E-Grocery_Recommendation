@@ -1,0 +1,386 @@
+food_code,Product_Name,Prep_Time_min,Calories_kcal,Sodium_mg,SatFat_g,TotalSugar_g,Category,Price_USD
+58407030,"Soup, ramen noodles, water added",3.0,165.0,705.0,3.045,0.75,Instant Noodles and Soups,0.12566375
+92511000,"Lemonade, frozen concentrate, not reconstituted",5.0,490.0,17.5,0.0625,111.15,Frozen and Ready Meals,0.182545
+58400100,"Soup, noodle, NFS",3.0,225.0,725.0,1.7225,1.55,Instant Noodles and Soups,0.270765
+56140100,"Pasta, gluten free",10.0,447.5,10.0,0.375,0.0,Macaroni and Pasta,0.28044125
+61210720,"Orange juice, 100%, frozen, not reconstituted",5.0,370.0,17.5,0.1475,74.2,Frozen and Ready Meals,0.291385
+56132990,"Pasta, whole grain, cooked",10.0,370.0,587.5,0.605,1.875,Macaroni and Pasta,0.31481750000000003
+61210820,"Orange juice, 100%, with calcium added, frozen, reconstituted",5.0,105.0,12.5,0.0425,21.200000000000003,Frozen and Ready Meals,0.38424
+61210620,"Orange juice, 100%, frozen, reconstituted",5.0,105.0,12.5,0.0425,21.175,Frozen and Ready Meals,0.38424
+58147510,Flavored pasta,10.0,217.5,435.0,1.09,2.475,Macaroni and Pasta,0.4108425
+58146322,"Pasta with tomato-based sauce and meat, home recipe",10.0,312.5,497.5,1.85,6.1,Macaroni and Pasta,0.44813000000000003
+58146323,"Pasta with tomato-based sauce and meat, ready-to-heat",10.0,347.5,837.5,2.415,5.9750000000000005,Macaroni and Pasta,0.45924
+58146622,"Pasta, whole grain, with tomato-based sauce and meat, home recipe",10.0,302.5,500.0,1.9375,6.35,Macaroni and Pasta,0.46801875000000004
+58163380,Flavored rice and pasta mixture,10.0,295.0,637.5,1.7625,0.44999999999999996,Macaroni and Pasta,0.47080249999999996
+58146321,"Pasta with tomato-based sauce and meat, restaurant",10.0,445.0,957.5,4.0075,5.6499999999999995,Macaroni and Pasta,0.48894624999999997
+58146222,"Pasta with tomato-based sauce, home recipe",10.0,265.0,505.0,0.4325,7.35,Macaroni and Pasta,0.50029125
+58146223,"Pasta with tomato-based sauce, ready-to-heat",10.0,300.0,845.0,1.0274999999999999,7.199999999999999,Macaroni and Pasta,0.5102675
+58146602,"Pasta, whole grain, with tomato-based sauce, home recipe",10.0,255.0,510.0,0.52,7.6,Macaroni and Pasta,0.52017875
+58146215,"Pasta with sauce, meatless, school lunch",10.0,255.0,220.0,0.5175,7.574999999999999,Macaroni and Pasta,0.5225075
+58146603,"Pasta, whole grain, with tomato-based sauce, ready-to-heat",10.0,290.0,850.0,1.1125,7.425000000000001,Macaroni and Pasta,0.5321725
+58146221,"Pasta with tomato-based sauce, restaurant",10.0,400.0,967.5,2.6925,6.800000000000001,Macaroni and Pasta,0.5372600000000001
+58146160,"Pasta with vegetables, no sauce or dressing",10.0,360.0,370.0,1.27,3.1,Macaroni and Pasta,0.5542625
+58145119,"Macaroni or noodles with cheese, made from reduced fat packaged mix",3.0,327.5,430.0,4.2,5.2749999999999995,Instant Noodles and Soups,0.555325
+58146302,"Pasta with tomato-based sauce, and added vegetables, home recipe",10.0,260.0,387.5,0.405,6.7,Macaroni and Pasta,0.55650625
+58403010,"Soup, chicken noodle, canned",3.0,105.0,667.5,0.53,3.0,Instant Noodles and Soups,0.56153875
+58146342,"Pasta with tomato-based sauce and poultry, home recipe",10.0,295.0,495.0,0.8250000000000001,6.1,Macaroni and Pasta,0.57157375
+58145112,"Macaroni or noodles with cheese, made from packaged mix",3.0,447.5,402.5,8.025,8.625,Instant Noodles and Soups,0.5734225
+58148112,"Macaroni or pasta salad, made with mayonnaise-type salad dressing",10.0,400.0,527.5,1.6300000000000001,8.2,Macaroni and Pasta,0.603745
+58148111,"Macaroni or pasta salad, made with light mayonnaise",10.0,397.5,597.5,1.6725,5.75,Macaroni and Pasta,0.604905
+58148110,"Macaroni or pasta salad, made with mayonnaise",10.0,552.5,510.0,4.5600000000000005,4.625,Macaroni and Pasta,0.61053125
+58148118,"Macaroni or pasta salad, made with any type of fat free dressing",10.0,335.0,597.5,0.5750000000000001,8.55,Macaroni and Pasta,0.6118049999999999
+58146352,"Pasta with tomato-based sauce, poultry, and added vegetables, home recipe",10.0,290.0,400.0,0.8,5.575,Macaroni and Pasta,0.6361212500000001
+58148120,Macaroni or pasta salad with egg,10.0,537.5,492.5,4.885,4.475,Macaroni and Pasta,0.64002625
+58145113,"Macaroni or noodles with cheese, canned",3.0,205.0,755.0,2.2025,1.25,Instant Noodles and Soups,0.64032125
+58146332,"Pasta with tomato-based sauce, meat, and added vegetables, home recipe",10.0,307.5,402.5,1.8275,5.575,Macaroni and Pasta,0.6540312500000001
+56116990,"Long rice noodles, made from mung beans, cooked",3.0,210.0,12.5,0.01,0.0,Instant Noodles and Soups,0.6703199999999999
+56117090,"Rice noodles, cooked",3.0,267.5,625.0,0.057499999999999996,0.075,Instant Noodles and Soups,0.670765
+58146632,"Pasta, whole grain, with tomato-based sauce, meat, and added vegetables, home recipe",10.0,297.5,405.0,1.915,5.825,Macaroni and Pasta,0.67391875
+58146612,"Pasta, whole grain, with tomato-based sauce and added vegetables, home recipe",10.0,247.5,392.5,0.49,6.949999999999999,Macaroni and Pasta,0.6812
+27415150,"Beef chow mein or chop suey, no noodles",3.0,205.0,632.5,1.87,4.4,Instant Noodles and Soups,0.6815024999999999
+58146613,"Pasta, whole grain, with tomato-based sauce and added vegetables, ready-to-heat",10.0,285.0,735.0,1.085,6.800000000000001,Macaroni and Pasta,0.687605
+58146301,"Pasta with tomato-based sauce, and added vegetables, restaurant",10.0,395.0,857.5,2.6675,6.2,Macaroni and Pasta,0.6944
+58146642,"Pasta, whole grain, with tomato-based sauce and poultry, home recipe",10.0,282.5,497.5,0.9099999999999999,6.35,Macaroni and Pasta,0.7113375
+58403040,"Soup, chicken noodle",3.0,132.5,620.0,0.8075,2.0250000000000004,Instant Noodles and Soups,0.7206250000000001
+58146341,"Pasta with tomato-based sauce and poultry, restaurant",10.0,427.5,955.0,3.0549999999999997,5.6499999999999995,Macaroni and Pasta,0.7223124999999999
+11460510,"Frozen yogurt, soft serve, chocolate",5.0,400.0,215.0,8.782499999999999,58.9,Frozen and Ready Meals,0.74681
+58146382,"Pasta with cream sauce, home recipe",10.0,385.0,665.0,10.4875,1.7999999999999998,Macaroni and Pasta,0.7497975
+58146393,"Pasta with cream sauce and added vegetables, ready-to-heat",10.0,385.0,850.0,8.522499999999999,2.4,Macaroni and Pasta,0.7531350000000001
+58146383,"Pasta with cream sauce, ready-to-heat",10.0,417.5,1002.5,10.865,1.775,Macaroni and Pasta,0.75435125
+11460100,"Frozen yogurt, chocolate",5.0,327.5,157.5,5.68,48.099999999999994,Frozen and Ready Meals,0.7580199999999999
+58147330,"Macaroni or noodles, creamed, with cheese",3.0,395.0,650.0,7.1850000000000005,1.7000000000000002,Instant Noodles and Soups,0.7583875
+58146682,"Pasta, whole grain, with cream sauce, home recipe",10.0,375.0,670.0,10.575000000000001,2.05,Macaroni and Pasta,0.7631175
+71505060,"Potato tots, frozen, NS as to fried or baked",5.0,592.5,1052.5,5.7875,0.7000000000000001,Frozen and Ready Meals,0.7673049999999999
+58146381,"Pasta with cream sauce, restaurant",10.0,510.0,1442.5,11.965,1.675,Macaroni and Pasta,0.7677725
+27242400,Chicken or turkey and noodles with tomato-based sauce,3.0,342.5,857.5,2.3000000000000003,3.4000000000000004,Instant Noodles and Soups,0.7722387500000001
+92513000,Slush frozen drink,5.0,70.0,25.0,0.0,19.2,Frozen and Ready Meals,0.7743500000000001
+58146683,"Pasta, whole grain, with cream sauce, ready-to-heat",10.0,407.5,1005.0,10.95,2.0250000000000004,Macaroni and Pasta,0.7798725
+58146392,"Pasta with cream sauce and added vegetables, from home recipe",10.0,352.5,510.0,8.092500000000001,2.475,Macaroni and Pasta,0.7819575
+72202010,Broccoli casserole with noodles,3.0,280.0,465.0,4.327500000000001,3.35,Instant Noodles and Soups,0.7870625
+58146315,"Pasta with sauce and meat, from school lunch",10.0,292.5,292.5,2.0774999999999997,6.825,Macaroni and Pasta,0.7947500000000001
+58146210,"Pasta with sauce, NFS",10.0,312.5,497.5,1.85,6.1,Macaroni and Pasta,0.799275
+73102212,"Carrots, frozen, cooked, no added fat",5.0,97.5,455.0,0.0,10.475000000000001,Frozen and Ready Meals,0.80396
+92102020,"Frozen mocha coffee drink, with non-dairy milk",5.0,145.0,97.5,0.21250000000000002,27.200000000000003,Frozen and Ready Meals,0.814905
+27242300,Chicken or turkey and noodles with cream or white sauce,3.0,350.0,857.5,4.7575,3.95,Instant Noodles and Soups,0.8239299999999999
+58146692,"Pasta, whole grain, with cream sauce, and added vegetables, home recipe",10.0,340.0,515.0,8.18,2.7,Macaroni and Pasta,0.8274375
+75223022,"Blackeyed peas, from frozen",5.0,377.5,315.0,2.09,10.8,Frozen and Ready Meals,0.8283750000000001
+58146391,"Pasta with cream sauce and added vegetables, restaurant",10.0,477.5,1297.5,9.755,2.275,Macaroni and Pasta,0.8291525
+27242000,"Chicken or turkey and noodles, no sauce",3.0,370.0,882.5,2.605,0.625,Instant Noodles and Soups,0.835935
+11460500,"Frozen yogurt, soft serve, vanilla",5.0,397.5,217.5,8.55,60.0,Frozen and Ready Meals,0.8374425000000001
+11459990,"Frozen yogurt, NFS",5.0,317.5,157.5,5.815,49.800000000000004,Frozen and Ready Meals,0.8382449999999999
+58146652,"Pasta, whole grain, with tomato-based sauce, poultry, and added vegetables, home recipe",10.0,277.5,402.5,0.8875,5.825,Macaroni and Pasta,0.8404325
+58146351,"Pasta with tomato-based sauce, poultry, and added vegetables, restaurant",10.0,422.5,867.5,3.035,5.175,Macaroni and Pasta,0.841885
+27446100,"Chicken or turkey chow mein or chop suey, no noodles",3.0,207.5,860.0,1.7974999999999999,4.4,Instant Noodles and Soups,0.843515
+58148550,Macaroni or pasta salad with meat,10.0,527.5,945.0,4.5675,3.9000000000000004,Macaroni and Pasta,0.8513
+27220210,"Ham and noodles, no sauce",3.0,360.0,1207.5,2.9825,0.625,Instant Noodles and Soups,0.8555024999999999
+73111212,"Peas and carrots, frozen, cooked, no added fat",5.0,145.0,462.5,0.06,10.725,Frozen and Ready Meals,0.86352125
+58146150,Pasta with tomato-based sauce and cheese,10.0,297.5,1007.5,3.205,8.85,Macaroni and Pasta,0.8701325
+71505040,"Potato tots, frozen, baked",5.0,467.5,1127.5,3.7325000000000004,0.75,Frozen and Ready Meals,0.8710125
+75311022,"Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type",5.0,215.0,387.5,1.7399999999999998,7.55,Frozen and Ready Meals,0.872515
+58148180,Macaroni or pasta salad with cheese,10.0,615.0,655.0,10.1725,4.1499999999999995,Macaroni and Pasta,0.8729325
+75311012,"Classic mixed vegetables, frozen, cooked, no added fat",5.0,162.5,377.5,0.0775,7.7749999999999995,Frozen and Ready Meals,0.87816375
+75439500,"Chow mein or chop suey, meatless, no noodles",3.0,107.5,860.0,0.7324999999999999,6.574999999999999,Instant Noodles and Soups,0.8866400000000001
+58146422,"Pasta with cream sauce and poultry, home recipe",10.0,392.5,625.0,8.9925,1.6,Macaroni and Pasta,0.8922375
+58146423,"Pasta with cream sauce and poultry, ready-to-heat",10.0,425.0,962.5,9.4025,1.575,Macaroni and Pasta,0.89369375
+58146421,"Pasta with cream sauce and poultry, restaurant",10.0,515.0,1402.5,10.5875,1.4749999999999999,Macaroni and Pasta,0.8992549999999999
+75311027,"Classic mixed vegetables, frozen, cooked with oil",5.0,222.5,365.0,1.045,7.55,Frozen and Ready Meals,0.9046862499999999
+11460000,"Frozen yogurt, vanilla",5.0,317.5,157.5,5.815,49.800000000000004,Frozen and Ready Meals,0.90551125
+75204012,"Lima beans, from frozen, no added fat",5.0,257.5,462.5,0.1925,3.35,Frozen and Ready Meals,0.91023375
+56112000,"Noodles, cooked",3.0,342.5,590.0,1.0425,1.0,Instant Noodles and Soups,0.9183774999999998
+72201222,"Broccoli, frozen, cooked, fat added, NS as to fat type",5.0,125.0,330.0,1.7100000000000002,3.5749999999999997,Frozen and Ready Meals,0.9233800000000001
+58148130,Macaroni or pasta salad with tuna,10.0,500.0,515.0,3.9475,3.9250000000000003,Macaroni and Pasta,0.92389
+75311028,"Classic mixed vegetables, frozen, cooked with butter or margarine",5.0,207.5,407.5,2.435,7.574999999999999,Frozen and Ready Meals,0.9250475
+58146402,"Pasta with cream sauce and meat, home recipe",10.0,410.0,627.5,10.02,1.6,Macaroni and Pasta,0.9303625
+73102224,"Carrots, frozen, cooked with oil",5.0,160.0,440.0,0.97,10.175,Frozen and Ready Meals,0.93069
+27343520,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3.0,335.0,855.0,2.3575,3.875,Instant Noodles and Soups,0.93259625
+58145120,Macaroni or noodles with cheese and tuna,3.0,410.0,440.0,6.705,7.075,Instant Noodles and Soups,0.9327025
+71505050,"Potato tots, frozen, fried",5.0,592.5,1052.5,5.7875,0.7000000000000001,Frozen and Ready Meals,0.9342525
+73102222,"Carrots, frozen, cooked, fat added, NS as to fat type",5.0,152.5,462.5,1.665,10.175,Frozen and Ready Meals,0.9361825
+58148160,Macaroni or pasta salad with tuna and egg,10.0,492.5,500.0,4.2725,3.825,Macaroni and Pasta,0.939895
+73102225,"Carrots, frozen, cooked with butter or margarine",5.0,142.5,482.5,2.36,10.2,Frozen and Ready Meals,0.941675
+27343510,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; tomato-based sauce",3.0,325.0,870.0,2.355,4.0,Instant Noodles and Soups,0.941965
+58146702,"Pasta, whole grain, with cream sauce and meat, home recipe",10.0,400.0,630.0,10.1075,1.85,Macaroni and Pasta,0.9428075
+58146432,"Pasta with cream sauce, poultry, and added vegetables, home recipe",10.0,365.0,497.5,7.047499999999999,2.15,Macaroni and Pasta,0.94376375
+58146433,"Pasta with cream sauce, poultry, and added vegetables, ready-to-heat",10.0,397.5,837.5,7.5,2.1,Macaroni and Pasta,0.9440999999999999
+58146431,"Pasta with cream sauce, poultry, and added vegetables, restaurant",10.0,490.0,1287.5,8.79,1.975,Macaroni and Pasta,0.9479500000000001
+27343470,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",3.0,320.0,845.0,2.615,2.8000000000000003,Instant Noodles and Soups,0.9508725
+58146732,"Pasta, whole grain, with cream sauce, poultry, and added vegetables, home recipe",10.0,352.5,502.5,7.135,2.375,Macaroni and Pasta,0.9536825
+58148117,"Macaroni or pasta salad, made with light creamy dressing",10.0,307.5,525.0,1.2325,4.45,Macaroni and Pasta,0.965085
+71401032,"Potato, french fries, from frozen, fried",5.0,562.5,737.5,4.965,0.8500000000000001,Frozen and Ready Meals,0.968465
+75204022,"Lima beans, from frozen, fat added",5.0,307.5,470.0,1.8525,3.25,Frozen and Ready Meals,0.96924
+71401020,"Potato, french fries, from frozen, baked",5.0,395.0,810.0,2.12,0.925,Frozen and Ready Meals,0.978515
+58146413,"Pasta with cream sauce, meat, and added vegetables, ready-to-heat",10.0,415.0,840.0,8.505,2.1,Macaroni and Pasta,0.9818150000000001
+71401000,"Potato, french fries, NS as to fresh or frozen",5.0,562.5,737.5,4.965,0.8500000000000001,Frozen and Ready Meals,0.98461625
+27450040,"Shrimp chow mein or chop suey, no noodles",3.0,172.5,657.5,0.9299999999999999,4.3,Instant Noodles and Soups,0.9864575
+27212050,Beef and macaroni with cheese sauce,10.0,342.5,985.0,5.4425,3.75,Macaroni and Pasta,0.9883949999999999
+75216122,"Corn, frozen, cooked, fat added, NS as to fat type",5.0,252.5,305.0,1.915,7.45,Frozen and Ready Meals,0.99322625
+58146412,"Pasta with cream sauce, meat, and added vegetables, home recipe",10.0,382.5,500.0,8.075,2.15,Macaroni and Pasta,1.0007000000000001
+42303100,"Peanut butter and jelly sandwich, frozen commercial product without crusts",5.0,902.5,920.0,8.4775,37.5,Frozen and Ready Meals,1.0012925
+27343020,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",3.0,377.5,880.0,2.355,2.0749999999999997,Instant Noodles and Soups,1.0046887500000001
+27343480,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and/or dark-green leafy; cream sauce, white sauce, or mushroom sauce",3.0,330.0,862.5,2.615,2.6750000000000003,Instant Noodles and Soups,1.011795
+73111222,"Peas and carrots, frozen, cooked, fat added",5.0,200.0,470.0,1.7249999999999999,10.425,Frozen and Ready Meals,1.0200974999999999
+27343960,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",3.0,372.5,850.0,6.545,1.7249999999999999,Instant Noodles and Soups,1.0292375
+75224022,"Green peas, frozen, cooked, no added fat",5.0,195.0,470.0,0.1225,10.975,Frozen and Ready Meals,1.02925375
+75216137,"Corn, frozen, cooked with oil",5.0,262.5,282.5,1.22,7.425000000000001,Frozen and Ready Meals,1.030665
+27212100,Beef and noodles with tomato-based sauce,3.0,287.5,685.0,3.8425,5.05,Instant Noodles and Soups,1.03387875
+75205022,"Green beans, frozen, cooked, no added fat",5.0,70.0,292.5,0.10999999999999999,4.675000000000001,Frozen and Ready Meals,1.04063375
+58145136,"Macaroni or noodles with cheese and meat, prepared from Hamburger Helper mix",3.0,360.0,710.0,7.4750000000000005,5.825,Instant Noodles and Soups,1.05283375
+75205047,"Green beans, frozen, cooked with oil",5.0,132.5,282.5,1.0775,4.55,Frozen and Ready Meals,1.06358
+75205048,"Green beans, frozen, cooked with butter or margarine",5.0,117.5,327.5,2.4675,4.575,Frozen and Ready Meals,1.0682575
+27343420,"Chicken or turkey, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",3.0,325.0,860.0,2.3400000000000003,1.75,Instant Noodles and Soups,1.07856
+75216138,"Corn, frozen, cooked with butter or margarine",5.0,245.0,327.5,2.6100000000000003,7.45,Frozen and Ready Meals,1.0865325000000001
+75216112,"Corn, frozen, cooked, no added fat",5.0,202.5,292.5,0.2575,7.65,Frozen and Ready Meals,1.09395
+75224046,"Green peas, frozen, cooked with oil",5.0,255.0,455.0,1.09,10.649999999999999,Frozen and Ready Meals,1.0985200000000002
+75224032,"Green peas, frozen, cooked, fat added, NS as to fat type",5.0,245.0,477.5,1.785,10.649999999999999,Frozen and Ready Meals,1.1040125
+27242310,Chicken or turkey and noodles with cheese sauce,3.0,365.0,852.5,6.8100000000000005,0.6,Instant Noodles and Soups,1.10614875
+58148114,"Macaroni or pasta salad, made with Italian dressing",10.0,332.5,565.0,1.46,5.925000000000001,Macaroni and Pasta,1.10729
+75224047,"Green peas, frozen, cooked with butter or margarine",5.0,237.5,497.5,2.4775,10.674999999999999,Frozen and Ready Meals,1.109505
+27343410,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",3.0,322.5,837.5,2.475,1.875,Instant Noodles and Soups,1.1102475
+27320080,"Sausage, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3.0,327.5,952.5,3.83,4.35,Instant Noodles and Soups,1.1120375
+27320025,"Ham or pork, noodles and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",3.0,377.5,782.5,2.8725,2.1,Instant Noodles and Soups,1.1144375
+75205032,"Green beans, frozen, cooked, fat added, NS as to fat type",5.0,125.0,305.0,1.7725,4.55,Frozen and Ready Meals,1.12729875
+58148116,"Macaroni or pasta salad, made with creamy dressing",10.0,390.0,515.0,2.7024999999999997,4.125,Macaroni and Pasta,1.14062625
+72107212,"Collards, frozen, cooked, no added fat",5.0,90.0,415.0,0.15,1.4249999999999998,Frozen and Ready Meals,1.1469825
+58146361,"Pasta with tomato-based sauce and seafood, restaurant",10.0,415.0,982.5,2.71,5.6499999999999995,Macaroni and Pasta,1.1507125
+72107231,"Collards, frozen, cooked with butter or margarine",5.0,137.5,445.0,2.505,1.4000000000000001,Frozen and Ready Meals,1.155025
+27320027,"Ham or pork, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",3.0,370.0,755.0,2.9625000000000004,2.275,Instant Noodles and Soups,1.1574550000000001
+58146362,"Pasta with tomato-based sauce and seafood, home recipe",10.0,282.5,522.5,0.44999999999999996,6.1,Macaroni and Pasta,1.161405
+58146662,"Pasta, whole grain, with tomato-based sauce and seafood, home recipe",10.0,270.0,525.0,0.5375,6.35,Macaroni and Pasta,1.17385
+75220012,"Okra, frozen, cooked, no added fat",5.0,72.5,297.5,0.1575,7.1499999999999995,Frozen and Ready Meals,1.18905
+75220022,"Okra, frozen, cooked, fat added",5.0,127.5,310.0,1.8175,6.949999999999999,Frozen and Ready Meals,1.19038
+55100020,"Pancakes, fruit, frozen",5.0,560.0,1095.0,2.7675,20.825,Frozen and Ready Meals,1.1913637499999998
+27343950,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; cheese sauce",3.0,362.5,865.0,6.5425,1.85,Instant Noodles and Soups,1.1974725
+75209022,"Brussels sprouts, frozen, cooked, fat added",5.0,160.0,340.0,1.8625,5.05,Frozen and Ready Meals,1.1988425
+75209012,"Brussels sprouts, frozen, cooked, no added fat",5.0,105.0,327.5,0.2025,5.175,Frozen and Ready Meals,1.2011525
+72201212,"Broccoli, frozen, cooked, no added fat",5.0,70.0,317.5,0.045,3.675,Frozen and Ready Meals,1.2034824999999998
+56130000,"Pasta, cooked",10.0,392.5,580.0,0.4375,1.4000000000000001,Macaroni and Pasta,1.2068400000000001
+58145170,Macaroni or noodles with cheese and egg,3.0,462.5,440.0,8.462499999999999,7.4,Instant Noodles and Soups,1.22154875
+72201227,"Broccoli, frozen, cooked with butter or margarine",5.0,117.5,350.0,2.4025,3.5749999999999997,Frozen and Ready Meals,1.2235525
+92101920,Frozen coffee drink,5.0,170.0,52.5,1.3050000000000002,32.9,Frozen and Ready Meals,1.23289875
+75214012,"Cauliflower, frozen, cooked, no added fat",5.0,47.5,335.0,0.085,2.625,Frozen and Ready Meals,1.23466625
+27212000,"Beef and noodles, no sauce",3.0,472.5,942.5,6.7225,0.65,Instant Noodles and Soups,1.2535399999999999
+92102000,Frozen mocha coffee drink,5.0,165.0,85.0,1.2675,30.425,Frozen and Ready Meals,1.2539624999999999
+58146371,"Pasta with tomato-based sauce, seafood, and added vegetables, restaurant",10.0,410.0,892.5,2.6875,5.175,Macaroni and Pasta,1.2702849999999999
+27313220,"Beef, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; tomato-based sauce",3.0,325.0,765.0,2.595,3.9000000000000004,Instant Noodles and Soups,1.2785725000000001
+58146372,"Pasta with tomato-based sauce, seafood, and added vegetables, home recipe",10.0,277.5,427.5,0.42750000000000005,5.575,Macaroni and Pasta,1.2904974999999999
+72201226,"Broccoli, frozen, cooked with oil",5.0,132.5,307.5,1.0150000000000001,3.55,Frozen and Ready Meals,1.29936
+55100010,"Pancakes, plain, frozen",5.0,582.5,1152.5,2.905,20.8,Frozen and Ready Meals,1.30215
+58146672,"Pasta, whole grain, with tomato-based sauce, seafood, and added vegetables, home recipe",10.0,265.0,430.0,0.5125,5.825,Macaroni and Pasta,1.3029425
+27212300,Beef and noodles with cream or white sauce,3.0,350.0,732.5,5.2025,3.9000000000000004,Instant Noodles and Soups,1.3155700000000001
+92101925,"Frozen coffee drink, with whipped cream",5.0,207.5,52.5,3.9425,31.549999999999997,Frozen and Ready Meals,1.3158737500000002
+55100030,"Pancakes, whole grain, frozen",5.0,580.0,1117.5,2.8649999999999998,20.2,Frozen and Ready Meals,1.3168625
+28110300,"Salisbury steak dinner, NFS, frozen meal",5.0,365.0,670.0,9.695,3.375,Frozen and Ready Meals,1.3194062500000001
+58146441,"Pasta with cream sauce and seafood, restaurant",10.0,505.0,1430.0,10.242500000000001,1.4749999999999999,Macaroni and Pasta,1.3334700000000002
+75233012,"Summer squash, yellow or green, frozen, cooked, no added fat",5.0,52.5,300.0,0.0825,5.0,Frozen and Ready Meals,1.33686
+27343010,"Chicken or turkey, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",3.0,367.5,877.5,2.3725,2.25,Instant Noodles and Soups,1.3375724999999998
+28101000,"Frozen dinner, NFS",5.0,365.0,670.0,9.695,3.375,Frozen and Ready Meals,1.3441049999999999
+28110310,"Salisbury steak with gravy, potatoes, vegetable, frozen meal",5.0,365.0,670.0,9.695,3.375,Frozen and Ready Meals,1.3443762499999998
+72125222,"Spinach, frozen, cooked, fat added, NS as to fat type",5.0,140.0,537.5,2.045,1.25,Frozen and Ready Meals,1.35304625
+58146442,"Pasta with cream sauce and seafood, home recipe",10.0,380.0,652.5,8.62,1.6,Macaroni and Pasta,1.36263625
+92101921,"Frozen coffee drink, nonfat",5.0,152.5,55.0,0.0925,33.075,Frozen and Ready Meals,1.36613375
+58146451,"Pasta with cream sauce, seafood, and added vegetables, restaurant",10.0,477.5,1312.5,8.445,1.975,Macaroni and Pasta,1.377155
+27313310,"Beef, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; mushroom sauce",3.0,312.5,757.5,2.8899999999999997,2.8249999999999997,Instant Noodles and Soups,1.3855975
+72118222,"Greens, frozen, cooked, fat added",5.0,147.5,375.0,1.9025,1.9,Frozen and Ready Meals,1.396885
+27212400,Beef and noodles with mushroom sauce,3.0,340.0,775.0,3.145,2.0,Instant Noodles and Soups,1.4034625
+72118212,"Greens, frozen, cooked, no added fat",5.0,92.5,365.0,0.245,1.9500000000000002,Frozen and Ready Meals,1.4119350000000002
+58146452,"Pasta with cream sauce, seafood, and added vegetables, home recipe",10.0,352.5,525.0,6.675,2.15,Macaroni and Pasta,1.4141624999999998
+72125212,"Spinach, frozen, cooked, no added fat",5.0,85.0,530.0,0.3925,1.275,Frozen and Ready Meals,1.41890625
+27350100,"Fish, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; cheese sauce",3.0,352.5,757.5,6.0625,1.7249999999999999,Instant Noodles and Soups,1.4242299999999999
+28110000,"Beef dinner, NFS, frozen meal",5.0,365.0,670.0,9.695,3.375,Frozen and Ready Meals,1.44425
+27313420,"Beef, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; gravy",3.0,327.5,762.5,2.7875,1.75,Instant Noodles and Soups,1.4505824999999999
+27350090,"Fish, noodles, and vegetables including carrots, broccoli, and/or dark green leafy; cheese sauce",3.0,342.5,772.5,6.06,1.85,Instant Noodles and Soups,1.4566575000000002
+63311180,"Fruit mixture, frozen",5.0,120.0,22.5,0.08750000000000001,22.95,Frozen and Ready Meals,1.4586750000000002
+58108050,Pizza rolls,5.0,862.5,1577.5,6.5625,9.85,Frozen and Ready Meals,1.4611162500000001
+28110330,"Salisbury steak with gravy, whipped potatoes, vegetable, dessert, frozen meal",5.0,352.5,1472.5,6.17,5.575,Frozen and Ready Meals,1.46615625
+58146120,"Pasta with tomato-based sauce, cheese and meat",10.0,367.5,812.5,6.8275,3.225,Macaroni and Pasta,1.4675525
+75214031,"Cauliflower, frozen, cooked with butter or margarine",5.0,95.0,367.5,2.4425,2.575,Frozen and Ready Meals,1.4767725
+58106650,"Pizza with extra meat, thin crust",5.0,692.5,1455.0,13.899999999999999,6.7,Frozen and Ready Meals,1.47963875
+27313410,"Beef, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; gravy",3.0,317.5,762.5,2.785,1.875,Instant Noodles and Soups,1.4824575000000002
+55100025,"Pancakes, chocolate, frozen",5.0,620.0,1105.0,5.0725,26.200000000000003,Frozen and Ready Meals,1.4853874999999999
+28140710,"Chicken, fried, with potatoes, vegetable, frozen meal",5.0,392.5,1672.5,6.6575,3.225,Frozen and Ready Meals,1.4883574999999998
+27212200,Beef and noodles with gravy,3.0,347.5,760.0,3.025,0.8,Instant Noodles and Soups,1.523365
+27313020,"Beef, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; no sauce",3.0,377.5,750.0,2.8675,2.1,Instant Noodles and Soups,1.5351375
+63223610,"Strawberries, frozen",5.0,87.5,5.0,0.015,11.399999999999999,Frozen and Ready Meals,1.5593612500000003
+58148150,Macaroni or pasta salad with shrimp,10.0,507.5,760.0,3.9450000000000003,3.9250000000000003,Macaroni and Pasta,1.5685375
+27250630,Tuna noodle casserole with mushroom sauce,3.0,347.5,820.0,4.7525,2.8499999999999996,Instant Noodles and Soups,1.5762175
+27313010,"Beef, noodles, and vegetables including carrots, broccoli, and/or dark-green leafy; no sauce",3.0,370.0,792.5,2.955,2.275,Instant Noodles and Soups,1.5764725
+58106705,"Pizza with meat and vegetables, from frozen, thick crust",5.0,690.0,1387.5,12.7075,12.125,Frozen and Ready Meals,1.59429
+63420105,Frozen fruit juice bar,5.0,265.0,15.0,0.0,56.5,Frozen and Ready Meals,1.6012899999999999
+58106655,"Pizza with extra meat, medium crust",5.0,685.0,1427.5,13.1825,7.3,Frozen and Ready Meals,1.62016
+92101930,"Frozen coffee drink, decaffeinated",5.0,170.0,52.5,1.3125,33.075,Frozen and Ready Meals,1.6359199999999998
+58106636,"Pizza, with meat other than pepperoni, from school lunch, thick crust",5.0,642.5,1082.5,10.547500000000001,9.3,Frozen and Ready Meals,1.6443849999999998
+58135110,Chow fun noodles with meat and vegetables,3.0,255.0,405.0,2.1225,2.75,Instant Noodles and Soups,1.66186
+58135120,"Chow fun noodles with vegetables, meatless",3.0,185.0,472.5,0.41000000000000003,3.4749999999999996,Instant Noodles and Soups,1.66186
+58106606,"Pizza with meat other than pepperoni, from frozen, thick crust",5.0,675.0,1157.5,11.29,8.65,Frozen and Ready Meals,1.6620625
+56116000,"Noodles, chow mein",3.0,1302.5,945.0,12.3275,0.625,Instant Noodles and Soups,1.6677537500000001
+27250130,Shrimp and noodles with cheese sauce,3.0,340.0,480.0,6.2775,0.6,Instant Noodles and Soups,1.66787375
+58304010,"Spaghetti and meatballs dinner, NFS, frozen meal",5.0,282.5,737.5,2.52,7.199999999999999,Frozen and Ready Meals,1.67758875
+58106660,"Pizza with extra meat, thick crust",5.0,695.0,1427.5,12.662500000000001,6.8500000000000005,Frozen and Ready Meals,1.6777549999999999
+58106610,"Pizza with meat other than pepperoni, from restaurant or fast food, NS as to type of crust",5.0,700.0,1425.0,12.582500000000001,8.299999999999999,Frozen and Ready Meals,1.6848675
+58137300,"Adobo, with noodles",3.0,430.0,1275.0,6.1975,0.075,Instant Noodles and Soups,1.6870025
+73410320,"Sweet potato fries, frozen",5.0,480.0,385.0,3.045,33.95,Frozen and Ready Meals,1.6886475
+63135620,"Peach, frozen",5.0,115.0,32.5,0.0475,20.975,Frozen and Ready Meals,1.69500375
+72119222,"Kale, frozen, cooked, fat added",5.0,165.0,340.0,2.0475,2.725,Frozen and Ready Meals,1.699075
+27350410,Tuna noodle casserole with vegetables and mushroom sauce,3.0,310.0,700.0,4.0649999999999995,3.725,Instant Noodles and Soups,1.6991125
+28113140,"Beef with spaetzle or rice, vegetable, frozen meal",5.0,295.0,695.0,3.0775,3.075,Frozen and Ready Meals,1.70360125
+55300020,"French toast, frozen",5.0,457.5,607.5,3.0025000000000004,22.525,Frozen and Ready Meals,1.70403
+58130016,"Lasagna with meat, frozen",5.0,310.0,867.5,5.1675,7.4,Frozen and Ready Meals,1.708565
+72119212,"Kale, frozen, cooked, no added fat",5.0,110.0,330.0,0.395,2.8000000000000003,Frozen and Ready Meals,1.71296
+58106700,"Pizza with meat and vegetables, from frozen, thin crust",5.0,690.0,1387.5,12.7075,12.125,Frozen and Ready Meals,1.7174375
+28145210,"Turkey with gravy, dressing, potatoes, vegetable, frozen meal",5.0,320.0,815.0,2.1925,12.05,Frozen and Ready Meals,1.742105
+56104000,"Pasta, vegetable, cooked",10.0,320.0,247.5,0.04,2.875,Macaroni and Pasta,1.744135
+55200050,"Waffle, chocolate, frozen",5.0,800.0,1102.5,7.7175,16.9,Frozen and Ready Meals,1.7590737500000002
+58106730,"Pizza with meat and vegetables, from restaurant or fast food, thick crust",5.0,647.5,1262.5,10.4375,8.075,Frozen and Ready Meals,1.7678449999999999
+58106512,"Pizza with pepperoni, from frozen, thin crust",5.0,685.0,1307.5,15.642499999999998,8.85,Frozen and Ready Meals,1.76900875
+55200020,"Waffle, plain, frozen",5.0,772.5,1150.0,5.6875,11.025,Frozen and Ready Meals,1.77130375
+27350080,"Tuna noodle casserole with vegetables, cream or white sauce",3.0,372.5,527.5,6.909999999999999,5.925000000000001,Instant Noodles and Soups,1.7728925000000002
+27212350,Beef stroganoff with noodles,3.0,322.5,790.0,6.105,2.525,Instant Noodles and Soups,1.79368
+58106630,"Pizza with meat other than pepperoni, from restaurant or fast food, thick crust",5.0,705.0,1425.0,12.0125,7.05,Frozen and Ready Meals,1.79376875
+58106260,"Pizza, extra cheese, thick crust",5.0,680.0,1367.5,11.44,8.175,Frozen and Ready Meals,1.7960024999999997
+51121055,"Garlic bread, with parmesan cheese, from frozen",5.0,877.5,1420.0,13.7025,9.05,Frozen and Ready Meals,1.79624375
+51121035,"Garlic bread, from frozen",5.0,875.0,1360.0,13.202499999999999,9.225,Frozen and Ready Meals,1.79624375
+58106760,"Pizza with meat and fruit, thick crust",5.0,612.5,1390.0,9.407499999999999,9.3,Frozen and Ready Meals,1.80400125
+28141010,"Chicken, fried, with potatoes, vegetable, dessert, frozen meal, large meat portion",5.0,502.5,1377.5,6.1925,15.075000000000001,Frozen and Ready Meals,1.80803125
+58106720,"Pizza with meat and vegetables, from restaurant or fast food, thin crust",5.0,602.5,1160.0,10.745000000000001,8.225,Frozen and Ready Meals,1.811035
+58106550,"Pizza with pepperoni, from restaurant or fast food, thin crust",5.0,705.0,1550.0,12.729999999999999,8.149999999999999,Frozen and Ready Meals,1.816675
+75231022,"Snowpeas, frozen, cooked, fat added",5.0,182.5,315.0,1.8425,11.675,Frozen and Ready Meals,1.81758
+28110510,"Beef, sliced, with gravy, potatoes, vegetable, frozen meal",5.0,312.5,740.0,5.0325,2.0,Frozen and Ready Meals,1.8245025000000001
+58106635,"Pizza, with meat other than pepperoni, from school lunch, thin crust",5.0,625.0,1142.5,8.72,18.825,Frozen and Ready Meals,1.8301124999999998
+58106604,"Pizza with meat other than pepperoni, from frozen, medium crust",5.0,672.5,1192.5,13.06,8.774999999999999,Frozen and Ready Meals,1.8323975
+75231012,"Snowpeas, frozen, cooked, no added fat",5.0,130.0,302.5,0.1825,12.024999999999999,Frozen and Ready Meals,1.83501
+24198736,"Chicken nuggets, from frozen",5.0,745.0,1500.0,9.995000000000001,2.0,Frozen and Ready Meals,1.8631824999999997
+56113000,"Noodles, whole grain, cooked",3.0,370.0,525.0,0.605,1.875,Instant Noodles and Soups,1.865925
+58145190,Macaroni or noodles with cheese and chicken or turkey,3.0,445.0,572.5,6.755,5.775,Instant Noodles and Soups,1.86681
+58126150,"Turnover or hot pocket, pizza pocket, meat",5.0,650.0,1340.0,12.0,9.75,Frozen and Ready Meals,1.8717225000000002
+55200040,"Waffle, fruit, frozen",5.0,740.0,1092.5,5.41,11.525,Frozen and Ready Meals,1.88100125
+28160310,"Meat loaf with potatoes, vegetable, frozen meal",5.0,335.0,980.0,5.505,7.55,Frozen and Ready Meals,1.8840062499999999
+58106625,"Pizza with meat other than pepperoni, from restaurant or fast food, medium crust",5.0,700.0,1425.0,12.582500000000001,8.299999999999999,Frozen and Ready Meals,1.8891425000000002
+28160300,"Meat loaf dinner, NFS, frozen meal",5.0,335.0,980.0,5.505,7.55,Frozen and Ready Meals,1.9018825000000001
+58106738,"Pizza with extra meat and extra vegetables, medium crust",5.0,582.5,1182.5,9.9925,7.725,Frozen and Ready Meals,1.9240012499999999
+27343910,Chicken or turkey chow mein or chop suey with noodles,3.0,327.5,1020.0,3.6375,3.85,Instant Noodles and Soups,1.9289337500000001
+58106602,"Pizza with meat other than pepperoni, from frozen, thin crust",5.0,667.5,1227.5,14.8325,8.9,Frozen and Ready Meals,1.92952
+58109210,Breakfast pizza with egg,5.0,730.0,1485.0,12.450000000000001,7.1499999999999995,Frozen and Ready Meals,1.93142625
+58106560,"Pizza with pepperoni, from restaurant or fast food, thick crust",5.0,717.5,1550.0,12.0975,7.325,Frozen and Ready Meals,1.93473375
+58106516,"Pizza with pepperoni, from frozen, thick crust",5.0,690.0,1212.5,11.8175,8.625,Frozen and Ready Meals,1.9514225
+51121075,"Garlic bread, with melted cheese, from frozen",5.0,857.5,1410.0,15.295000000000002,8.6,Frozen and Ready Meals,1.9550375
+58106755,"Pizza with meat and fruit, medium crust",5.0,585.0,1400.0,9.5775,10.024999999999999,Frozen and Ready Meals,1.9576625
+27313110,Beef chow mein or chop suey with noodles,3.0,322.5,820.0,3.7025,3.875,Instant Noodles and Soups,1.9580375
+58106620,"Pizza with meat other than pepperoni, from restaurant or fast food, thin crust",5.0,700.0,1425.0,12.582500000000001,8.299999999999999,Frozen and Ready Meals,1.95924875
+27250126,Shrimp and noodles with cream or white sauce,3.0,357.5,405.0,4.675000000000001,4.1499999999999995,Instant Noodles and Soups,1.9750925000000001
+63203600,"Blueberries, frozen",5.0,127.5,2.5,0.1325,21.125,Frozen and Ready Meals,1.97942875
+58106540,"Pizza with pepperoni, from restaurant or fast food, NS as to type of crust",5.0,705.0,1550.0,12.729999999999999,8.149999999999999,Frozen and Ready Meals,1.9814175
+58145135,Macaroni or noodles with cheese and meat,3.0,525.0,595.0,10.927500000000002,5.8999999999999995,Instant Noodles and Soups,1.992455
+58106220,"Pizza, cheese, from restaurant or fast food, thin crust",5.0,665.0,1350.0,11.1625,8.95,Frozen and Ready Meals,1.9934874999999999
+58109015,"Pizza, cheese, whole wheat thin crust",5.0,667.5,1357.5,10.5325,8.975,Frozen and Ready Meals,1.99778875
+58106225,"Pizza, cheese, from restaurant or fast food, medium crust",5.0,665.0,1350.0,11.1625,8.95,Frozen and Ready Meals,2.0035049999999996
+58106200,"Pizza, cheese, from frozen, thin crust",5.0,657.5,1177.5,14.245000000000001,9.275,Frozen and Ready Meals,2.00780625
+58106210,"Pizza, cheese, from restaurant or fast food, NS as to type of crust",5.0,665.0,1350.0,11.1625,8.95,Frozen and Ready Meals,2.00780625
+58106235,"Pizza, cheese, from school lunch, thin crust",5.0,617.5,1052.5,10.0,17.8,Frozen and Ready Meals,2.0205975
+54408456,"Pretzels, soft, from frozen, unsalted",5.0,862.5,630.0,1.7374999999999998,0.625,Frozen and Ready Meals,2.02099625
+58126160,"Turnover or hot pocket, pizza pocket",5.0,610.0,1165.0,9.8475,10.4,Frozen and Ready Meals,2.023535
+28144100,"Chicken and vegetable entree with noodles and cream sauce, frozen meal",3.0,310.0,947.5,5.0475,3.95,Instant Noodles and Soups,2.02623
+58145140,Macaroni or noodles with cheese and tomato,3.0,370.0,327.5,6.494999999999999,8.375,Instant Noodles and Soups,2.0354475
+58106555,"Pizza with pepperoni, from restaurant or fast food,  medium crust",5.0,705.0,1550.0,12.729999999999999,8.149999999999999,Frozen and Ready Meals,2.03736
+58106250,"Pizza, extra cheese, thin crust",5.0,670.0,1372.5,12.175,8.7,Frozen and Ready Meals,2.0434099999999997
+28110380,"Salisbury steak with gravy, macaroni and cheese, frozen meal",10.0,505.0,950.0,8.0325,4.425,Macaroni and Pasta,2.0515999999999996
+58106305,"Pizza, cheese with vegetables, from frozen, thick crust",5.0,632.5,1045.0,9.985000000000001,9.0,Frozen and Ready Meals,2.05169375
+93301510,Frozen margarita,5.0,305.0,510.0,0.015,40.15,Frozen and Ready Meals,2.0632775
+27313160,"Beef, noodles, and vegetables excluding carrots, broccoli, and dark-green leafy; soy-based sauce",3.0,347.5,515.0,4.205,3.4000000000000004,Instant Noodles and Soups,2.0644575
+53344300,Dessert pizza,5.0,510.0,325.0,4.6125,39.375,Frozen and Ready Meals,2.0695550000000003
+58109020,"Pizza, cheese, whole wheat thick crust",5.0,662.5,1370.0,8.625,9.375,Frozen and Ready Meals,2.0859525000000003
+58145160,Macaroni or noodles with cheese and frankfurters or hot dogs,3.0,522.5,747.5,12.337499999999999,7.7,Instant Noodles and Soups,2.0869675
+27250610,Tuna noodle casserole with cream or white sauce,3.0,420.0,622.5,8.155,5.4,Instant Noodles and Soups,2.0907225
+58145110,Macaroni or noodles with cheese,3.0,557.5,895.0,12.875,6.1,Instant Noodles and Soups,2.09474875
+58145117,"Macaroni or noodles with cheese, Easy Mac type",3.0,275.0,647.5,1.9975,5.825,Instant Noodles and Soups,2.09474875
+63201600,"Blackberries, frozen",5.0,160.0,2.5,0.0375,26.675,Frozen and Ready Meals,2.1017325000000002
+58106750,"Pizza with meat and fruit, thin crust",5.0,567.5,1412.5,9.2075,10.3,Frozen and Ready Meals,2.1025425
+58106514,"Pizza with pepperoni, from frozen, medium crust",5.0,687.5,1260.0,13.73,8.725000000000001,Frozen and Ready Meals,2.11102875
+75460900,"Chow mein or chop suey, meatless, with noodles",3.0,292.5,1085.0,3.51,5.45,Instant Noodles and Soups,2.1175625
+58106702,"Pizza with meat and vegetables, from frozen, medium crust",5.0,690.0,1387.5,12.7075,12.125,Frozen and Ready Meals,2.1272824999999997
+58106725,"Pizza with meat and vegetables, from restaurant or fast food, medium crust",5.0,620.0,1210.0,10.854999999999999,8.425,Frozen and Ready Meals,2.1272824999999997
+63115200,"Cherries, frozen",5.0,177.5,0.0,0.095,34.675,Frozen and Ready Meals,2.13787375
+28140100,"Chicken dinner, NFS, frozen meal",5.0,310.0,947.5,5.0475,3.95,Frozen and Ready Meals,2.1428175
+75233030,"Summer squash, yellow or green, frozen, cooked with oil",5.0,115.0,290.0,1.0525,4.875,Frozen and Ready Meals,2.14502
+58106360,"Pizza, cheese, with fruit, thick crust",5.0,615.0,1187.5,9.305,10.774999999999999,Frozen and Ready Meals,2.1568575
+58106359,"Pizza, cheese, with fruit, medium crust",5.0,597.5,1172.5,9.702499999999999,11.525,Frozen and Ready Meals,2.1568575
+58106358,"Pizza, cheese, with fruit, thin crust",5.0,575.0,1117.5,9.2425,12.325,Frozen and Ready Meals,2.1568575
+51184220,"Breadsticks, soft, frozen",5.0,782.5,1257.5,5.2700000000000005,7.0,Frozen and Ready Meals,2.15746875
+28140720,"Chicken patty, or nuggets, boneless, breaded, potatoes, vegetable, frozen meal",5.0,437.5,940.0,4.89,2.5,Frozen and Ready Meals,2.17026
+58145111,"Macaroni or noodles with cheese, from restaurant",3.0,377.5,902.5,5.3675,7.725,Instant Noodles and Soups,2.179525
+58107222,"White pizza, cheese, with meat, thin crust",5.0,760.0,1555.0,16.35,6.475,Frozen and Ready Meals,2.2019275
+72125224,"Spinach, frozen, cooked with oil",5.0,147.5,515.0,1.35,1.225,Frozen and Ready Meals,2.2344425
+28143080,"Chicken with noodles and cheese sauce, diet frozen meal",3.0,285.0,427.5,1.395,0.775,Instant Noodles and Soups,2.23550875
+58146403,"Pasta with cream sauce and meat, ready-to-heat",10.0,442.5,965.0,10.4075,1.575,Macaroni and Pasta,2.2376475000000005
+28141650,"Chicken and vegetables au gratin with rice, diet frozen entree",5.0,300.0,1247.5,6.949999999999999,2.2,Frozen and Ready Meals,2.2416962500000004
+14620300,Topping from cheese pizza,5.0,575.0,1782.5,20.06,10.95,Frozen and Ready Meals,2.24208
+72125225,"Spinach, frozen, cooked with butter or margarine",5.0,132.5,557.5,2.74,1.25,Frozen and Ready Meals,2.2454275
+28141201,"Teriyaki chicken with rice and vegetable, diet frozen meal",5.0,315.0,832.5,0.8175,10.175,Frozen and Ready Meals,2.2525775
+27212120,Chili with macaroni,10.0,315.0,777.5,3.3175,3.25,Macaroni and Pasta,2.2549775
+28154010,"Shrimp and vegetables in sauce with noodles, diet frozen meal",3.0,227.5,1140.0,1.2275,4.675000000000001,Instant Noodles and Soups,2.2558274999999997
+58310310,"Pancakes and sausage, frozen meal",5.0,680.0,1435.0,8.885,24.025,Frozen and Ready Meals,2.2559325
+55200060,"Waffle, whole grain, frozen",5.0,722.5,1322.5,3.3674999999999997,10.2,Frozen and Ready Meals,2.2607212499999996
+58304060,"Spaghetti with meat sauce, diet frozen meal",5.0,282.5,737.5,2.52,7.199999999999999,Frozen and Ready Meals,2.2677449999999997
+58106230,"Pizza, cheese, from restaurant or fast food, thick crust",5.0,677.5,1350.0,10.565,8.35,Frozen and Ready Meals,2.2723699999999996
+58148170,Macaroni or pasta salad with chicken,10.0,532.5,562.5,4.467499999999999,3.9250000000000003,Macaroni and Pasta,2.27416
+92102030,"Frozen mocha coffee drink, with whipped cream",5.0,202.5,82.5,3.83,29.224999999999998,Frozen and Ready Meals,2.27449
+92102040,"Frozen mocha coffee drink, nonfat, with whipped cream",5.0,185.0,85.0,2.7125,29.4,Frozen and Ready Meals,2.27449
+58106737,"Pizza with extra meat and extra vegetables, thick crust",5.0,597.5,1195.0,9.625,7.35,Frozen and Ready Meals,2.2813849999999998
+11461200,Frozen yogurt sandwich,5.0,510.0,480.0,7.0125,60.75,Frozen and Ready Meals,2.29472875
+28110660,"Meatballs, Swedish, in gravy, with noodles, diet frozen meal",3.0,280.0,637.5,2.9375,2.9499999999999997,Instant Noodles and Soups,2.31268375
+58106736,"Pizza with extra meat and extra vegetables, thin crust",5.0,555.0,1130.0,9.625,7.35,Frozen and Ready Meals,2.3297375000000002
+58106330,"Pizza, cheese, with vegetables, from restaurant or fast food, thick crust",5.0,612.5,1200.0,9.4025,8.525,Frozen and Ready Meals,2.37523125
+24198746,"Chicken tenders or strips, breaded, from frozen",5.0,600.0,1317.5,6.092499999999999,1.4249999999999998,Frozen and Ready Meals,2.3785162499999997
+58146623,"Pasta, whole grain, with tomato-based sauce and meat, ready-to-heat",10.0,335.0,840.0,2.5,6.2,Macaroni and Pasta,2.40076875
+27250120,"Shrimp and noodles, no sauce",3.0,365.0,360.0,2.21,0.65,Instant Noodles and Soups,2.44616125
+58106205,"Pizza, cheese, from frozen, thick crust",5.0,670.0,1117.5,10.68,8.924999999999999,Frozen and Ready Meals,2.451535
+58302080,"Noodles with vegetables in tomato-based sauce, diet frozen meal",3.0,175.0,335.0,1.6675,6.775,Instant Noodles and Soups,2.4606025000000002
+27350050,Shrimp chow mein or chop suey with noodles,3.0,292.5,837.5,2.835,3.775,Instant Noodles and Soups,2.46737875
+28143200,"Chicken in soy-based sauce, rice and vegetables, frozen meal",5.0,272.5,832.5,0.5974999999999999,3.55,Frozen and Ready Meals,2.471225
+58106234,"Pizza, cheese, from school lunch, medium crust",5.0,625.0,1052.5,10.447500000000002,15.175,Frozen and Ready Meals,2.50133875
+58106236,"Pizza, cheese, from school lunch, thick crust",5.0,635.0,1052.5,10.895,12.549999999999999,Frozen and Ready Meals,2.5357075
+58106633,"Pizza, with meat other than pepperoni, stuffed crust",5.0,695.0,1575.0,15.3725,6.8999999999999995,Frozen and Ready Meals,2.5486449999999996
+27446355,"Asian chicken or turkey garden salad with crispy noodles, chicken and/or turkey, lettuce, fruit, nuts, crispy noodles, no dressing",3.0,290.0,417.5,2.0,7.5,Instant Noodles and Soups,2.5506374999999997
+75202012,"Asparagus, frozen, cooked, no added fat",5.0,45.0,297.5,0.24,0.8,Frozen and Ready Meals,2.5695525000000004
+28143150,"Chicken and vegetable entree with noodles, diet frozen meal",3.0,212.5,707.5,1.2275,5.675,Instant Noodles and Soups,2.576505
+28150510,"Fish in lemon-butter sauce with starch item, vegetable, frozen meal",5.0,252.5,1130.0,3.4050000000000002,2.6750000000000003,Frozen and Ready Meals,2.6100775
+11461220,"Frozen yogurt bar, chocolate",5.0,327.5,157.5,5.68,48.099999999999994,Frozen and Ready Meals,2.6413625
+58146333,"Pasta with tomato-based sauce, meat, and added vegetables, ready-to-heat",10.0,342.5,742.5,2.3925,5.45,Macaroni and Pasta,2.6702512499999997
+28145110,"Turkey with vegetable, stuffing, diet frozen meal",5.0,240.0,525.0,1.2725,9.475,Frozen and Ready Meals,2.692135
+11461210,"Frozen yogurt bar, vanilla",5.0,317.5,157.5,5.815,49.800000000000004,Frozen and Ready Meals,2.734
+28143020,"Chicken and vegetable entree with rice, diet frozen meal",5.0,427.5,897.5,2.5275,16.05,Frozen and Ready Meals,2.7439675
+58106580,"Pizza with pepperoni, from school lunch, thick crust",5.0,647.5,1185.0,10.547500000000001,10.075000000000001,Frozen and Ready Meals,2.7997775000000003
+28141250,"Chicken with rice and vegetable, diet frozen meal",5.0,277.5,1025.0,1.5175,4.65,Frozen and Ready Meals,2.8287125
+14620320,Topping from meat pizza,5.0,802.5,2335.0,26.6175,8.0,Frozen and Ready Meals,2.8808325000000004
+58107050,"Pizza, no cheese, thin crust",5.0,690.0,1377.5,8.585,12.575000000000001,Frozen and Ready Meals,2.919635
+28110150,"Beef with vegetable, diet frozen meal",5.0,312.5,730.0,6.574999999999999,7.025,Frozen and Ready Meals,2.93537625
+11461250,"Frozen yogurt cone, chocolate",5.0,355.0,177.5,5.575,46.775000000000006,Frozen and Ready Meals,2.9564775
+11461260,"Frozen yogurt cone, vanilla",5.0,347.5,177.5,5.705,48.4,Frozen and Ready Meals,2.9564775
+11461300,"Frozen yogurt cone, vanilla, waffle cone",5.0,357.5,192.5,5.557499999999999,50.650000000000006,Frozen and Ready Meals,2.9564775
+11461320,"Frozen yogurt cone, chocolate, waffle cone",5.0,367.5,192.5,5.430000000000001,49.050000000000004,Frozen and Ready Meals,2.9564775
+58106233,"Pizza, cheese, stuffed crust",5.0,685.0,1537.5,14.5625,7.25,Frozen and Ready Meals,3.025405
+58106565,"Pizza with pepperoni, stuffed crust",5.0,740.0,1772.5,17.46,6.550000000000001,Frozen and Ready Meals,3.0549225
+58149110,Noodle pudding,3.0,522.5,170.0,4.14,27.7,Instant Noodles and Soups,3.069815
+58106300,"Pizza, cheese, with vegetables, from frozen, thin crust",5.0,600.0,982.5,9.389999999999999,9.05,Frozen and Ready Meals,3.3917562500000003
+58106320,"Pizza, cheese, with vegetables, from restaurant or fast food, thin crust",5.0,585.0,1162.5,9.615,9.075,Frozen and Ready Meals,3.3917562500000003
+58106325,"Pizza, cheese, with vegetables, from restaurant or fast food, medium crust",5.0,605.0,1210.0,9.9975,9.05,Frozen and Ready Meals,3.394145
+58106345,"Pizza with cheese and extra vegetables, thin crust",5.0,520.0,1102.5,8.462499999999999,8.275,Frozen and Ready Meals,3.394145
+58106347,"Pizza with cheese and extra vegetables, medium crust",5.0,552.5,1157.5,9.067499999999999,8.425,Frozen and Ready Meals,3.394145
+58146343,"Pasta with tomato-based sauce and poultry, ready-to-heat",10.0,330.0,835.0,1.4124999999999999,5.9750000000000005,Macaroni and Pasta,3.4303437500000005
+41480020,"Frozen dessert, non-dairy",5.0,397.5,97.5,17.6025,43.775000000000006,Frozen and Ready Meals,3.4741225
+27250128,Shrimp and noodles with soy-based sauce,3.0,352.5,690.0,2.7300000000000004,2.175,Instant Noodles and Soups,3.4857525000000003
+27320310,Pork chow mein or chop suey with noodles,3.0,357.5,812.5,5.034999999999999,3.875,Instant Noodles and Soups,3.612075
+63219610,"Raspberries, frozen",5.0,142.5,0.0,0.0475,6.7,Frozen and Ready Meals,3.7161487500000003
+58107205,"White pizza, cheese, thin crust",5.0,712.5,1302.5,13.0725,7.425000000000001,Frozen and Ready Meals,3.755535
+58107212,"White pizza, cheese, with vegetables, thin crust",5.0,602.5,1165.0,10.8475,7.25,Frozen and Ready Meals,3.8308524999999998
+14620310,Topping from vegetable pizza,5.0,617.5,2012.5,19.055,14.375,Frozen and Ready Meals,3.8662825
+58109050,"Pizza, cheese and vegetables, whole wheat thin crust",5.0,565.0,1207.5,8.8025,8.5,Frozen and Ready Meals,3.87750625
+27250132,Shrimp and noodles with tomato sauce,3.0,335.0,430.0,2.05,3.4000000000000004,Instant Noodles and Soups,3.9375725
+58146443,"Pasta with cream sauce and seafood, ready-to-heat",10.0,412.5,987.5,9.037500000000001,1.575,Macaroni and Pasta,4.078845
+58106578,"Pizza, with pepperoni, from school lunch, medium crust",5.0,640.0,1210.0,8.7875,14.55,Frozen and Ready Meals,4.755497500000001
+58109030,"Pizza, with meat, whole wheat thin crust",5.0,722.5,1602.5,14.3175,7.725,Frozen and Ready Meals,4.755497500000001
+58106570,"Pizza with pepperoni, from school lunch, thin crust",5.0,635.0,1237.5,7.025,19.05,Frozen and Ready Meals,4.755497500000001
+58106820,"Pizza with beans and vegetables, thin crust",5.0,507.5,1002.5,7.567500000000001,7.425000000000001,Frozen and Ready Meals,5.13687
+58109130,"Pizza, with meat, gluten-free thick crust",5.0,700.0,1420.0,12.6,7.275,Frozen and Ready Meals,5.6993225
+58109120,"Pizza, with meat, gluten-free thin crust",5.0,717.5,1485.0,14.770000000000001,6.949999999999999,Frozen and Ready Meals,5.7942374999999995
+58109140,"Pizza, cheese and vegetables, gluten-free thin crust",5.0,557.5,1092.5,9.247499999999999,7.725,Frozen and Ready Meals,6.4579275
+58106634,"Pizza, with meat other than pepperoni, from school lunch, medium crust",5.0,635.0,1112.5,9.635,14.05,Frozen and Ready Meals,7.565650000000001
