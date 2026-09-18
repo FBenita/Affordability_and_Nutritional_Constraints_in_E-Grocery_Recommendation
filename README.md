@@ -19,11 +19,3 @@ The analysis is partitioned into four reproducible notebooks:
 3.  **`03_monte_carlo_simulation.ipynb`**: Executes synthetic market simulations ($N=5000$, $R=500$) varying the negative correlation ($\gamma$) between price and nutrient density to isolate algorithmic failure rates (e.g., candidate pool truncation and penalty calibration limits).
 4.  **`04_phase_transition_heatmaps.ipynb`**: Generates 2D sensitivity surfaces mapping the intersection of item price ceilings ($\beta$) and market dependence ($\gamma$) to quantify the socioeconomic distribution of constraint relaxation.
 
-## Installation & Usage
-
-To reproduce the analysis locally, clone this repository and install the required dependencies:
-
-```bash
-git clone [https://github.com/YOUR_USERNAME/food-recommender-constraints.git](https://github.com/YOUR_USERNAME/food-recommender-constraints.git)
-cd food-recommender-constraints
-pip install -r requirements.txt
